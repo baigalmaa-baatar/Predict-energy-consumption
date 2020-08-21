@@ -1,5 +1,5 @@
 # Solar home half-hour data 2010-2013
-<p align="center"><img src="image/readme.jpg" /></p>
+<p align="center"><img src="images/readme.jpg" /></p>
 
 ### Exploring household energy data by consumption, by generating (solar panel) by hourly, weekly, monthly, yearly, winter, summer.
 * Keyword explanations (from PDF file with the data)
