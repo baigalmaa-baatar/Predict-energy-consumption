@@ -1,6 +1,7 @@
 # Solar home half-hour data 2010-2013
 <p align="center"><img src="image/readme.jpg" /></p>
-#### Exploring household energy data by consumption, by generating (solar panel) by hourly, weekly, monthly, yearly, winter, summer.
+
+### Exploring household energy data by consumption, by generating (solar panel) by hourly, weekly, monthly, yearly, winter, summer.
 * Keyword explanations (from PDF file with the data)
 
   *  **Generator Capacity**: Solar panel capacity recorded on the application for connection for each customer.
