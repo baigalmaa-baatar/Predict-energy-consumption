@@ -12,3 +12,10 @@
 
   * **Half-hourly data**: Kilowatt hours (kWh) of electrical energy consumed or generated in the half hour ending at 0:30 (eg. between 0:00 and 0:30).\
   The value is positive regardless of whether it is consumption or generation. 
+## Using these models:
+  * For energy generation:
+     * **Features**:weather information(UV Index, Temperature, Humidity, Wind Speed, Wind direction, Rain chance, etc)
+     * Using models such as **Random Forest, XGBoost, Logistic regression
+   * For energy consumption:
+     * **Features**: time (will add other features)
+     * Using time-series models such as **ARIMA, SARIMAX, Prophet and naive LSTM(DL)
