@@ -19,4 +19,4 @@
    * For energy consumption:
      * **Features**: time (will add other features)
      * Using time-series models such as **ARIMA, SARIMAX, Prophet and naive LSTM(DL)
-## More information on this slide: Predicting energy consumption and generation.ppt
+## More information on slide:[Predicting energy consumption and generation.pdf](https://github.com/stardustd/Predict-energy-consumption/blob/master/Predict%20energy%20comsumption%20and%20generation.pdf)
