@@ -1,4 +1,4 @@
-# Solar home half-hour data 2010-2013
+# Predicting energy consumption and generation using Machine learning and Deep learning
 <p align="center"><img src="images/readme.jpg" /></p>
 
 ### Exploring household energy data by consumption, by generating (solar panel) by hourly, weekly, monthly, yearly, winter, summer.
